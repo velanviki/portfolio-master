@@ -60,7 +60,7 @@ function Contact() {
               <div class="contact-form">
                 <div class="form-group">
                   <label class="control-label col-sm-2" for="fname">
-                    FirstName:
+                    
                   </label>
                   <div class="col-sm-10">
                     <input
@@ -74,7 +74,7 @@ function Contact() {
                 </div>
                 <div class="form-group">
                   <label class="control-label col-sm-2" for="lname">
-                    LastName:
+                  
                   </label>
                   <div class="col-sm-10">
                     <input
@@ -88,7 +88,7 @@ function Contact() {
                 </div>
                 <div class="form-group">
                   <label class="control-label col-sm-2" for="email">
-                    Email:
+                    
                   </label>
                   <div class="col-sm-10">
                     <input
@@ -102,7 +102,7 @@ function Contact() {
                 </div>
                 <div class="form-group">
                   <label class="control-label col-sm-2" for="comment">
-                    Message:
+                   
                   </label>
                   <div class="col-sm-10">
                     <textarea

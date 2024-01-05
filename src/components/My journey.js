@@ -13,16 +13,14 @@ export default function Resume() {
               <div class="resume-item pb-0">
                 <h4>Velan S</h4>
                 <p>
-                  <em>
-                    Well-qualified Full Stack Developer familiar with wide range
-                    of programming utilities and languages. Born To Explore,
-                    Tries to learn something new every day, digital/print
-                    marketing material from initial concept to final, polished
-                    deliverable.
-                  </em>
+                    Dedicated and results-driven software professional with 1.5
+                    years of hands-on experience in the software development
+                    industry. Adept at collaborating with cross-functional teams
+                    to deliver high-quality solutions within specified
+                    timelines. Proficient in multiple programming languages and
+                    well-versed in the complete software development life cycle.
                 </p>
                 <p>
-                  <h5>2021 - till</h5>
                   <ul>
                     <li>(+91) 8608687416</li>
                     <li>velanvicky01@gmail.com</li>
@@ -34,7 +32,7 @@ export default function Resume() {
                 <ul type="1">
                   <li>1.Well known with JavaScript.</li>
                   <li>2.Mern stack development. </li>
-                  <li>3.Good in Data structures.</li>
+                  <li>3.Databases (MongoDB,SQL).</li>
                 </ul>
               </div>
               <h3 class="resume-title">Education</h3>
@@ -43,13 +41,14 @@ export default function Resume() {
                 <h5>2014 - 2018</h5>
                 <p>
                   <em>
-                    Christ college of engineering and Technology, Pondicherry,
-                    IN
+                    Christ college of engineering and Technology, Pondicherry.
                   </em>
                 </p>
                 <p>
-                  Completed my graduation in Electronics and Commucnication(ECE)
-                  stream without any career gap and gained 7.9CGPA{" "}
+                  B-Tech in Electronics and Commucnication(ECE)
+                  </p>
+                  <p>
+                  CGPA - 7.9
                 </p>
               </div>
             </div>

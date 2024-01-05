@@ -11,7 +11,6 @@ import Projects from "./components/Project";
 import Skills from "./components/Skills";
 
 
-
 function App() {
   return (
     <div className="App">

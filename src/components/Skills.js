@@ -17,7 +17,7 @@ export default function Skills() {
             </h4>
             <div class="progress">
               <div
-                class="progress-bar w-75 bg-success"
+                class="progress-bar w-100 bg-success"
                 role="progressbar"
               ></div>
             </div>
@@ -32,7 +32,7 @@ export default function Skills() {
             </h4>
             <div class="progress">
               <div
-                class="progress-bar w-50 bg-danger"
+                class="progress-bar w-75 bg-danger"
                 role="progressbar"
                 aria-valuenow="75"
                 aria-valuemin="0"

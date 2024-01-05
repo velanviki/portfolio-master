@@ -159,9 +159,6 @@ export default function Projects() {
           </div>} */}
         
 
-
-
-     
           <div class="col-right">
             <h2> Quizz App </h2>
               <p className="desc">A Online Quiz Creating App to make Dynamic Quizzes and can edit,update and delete.</p>

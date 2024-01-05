@@ -17,19 +17,19 @@ function About() {
             <div className="about__meta">
               <p className="about__text p__color">
                 <li>
-                  An Enthusiastic Full Stack Developer with good knowledge in
-                  HTML,Css,JS and MERN stack.
+                Dedicated and results-driven software professional
+ with 1.5 years of hands-on experience in the software
+ development industry.
                 </li>
               </p>
 
               <p className="about__text p__color">
                 <li>
-                  Looking for a platform to explore my skills and to learn
-                  something new everyday.
+                  Certified MERN stack developer.
                 </li>
               </p>
               <p className="about__text p__color">
-                <li>A good team player.</li>
+                <li>Collaborative,Creative and Quick to adapt.</li>
               </p>
 
               <div className="about__button d__flex align__items__center">
