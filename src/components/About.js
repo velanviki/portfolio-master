@@ -35,7 +35,7 @@ function About() {
               <div className="about__button d__flex align__items__center">
                 <a
                   target="_blank"
-                  href="https://drive.google.com/file/d/1JpGXgmE6fRSLEK08DZilSYHY6fPi6S-9/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1eKJb7ovTSbakN4rbiGKQ-T2zW7JhGdDk/view?usp=drivesdk"
                 >
                   <button className="about btn pointer">Download CV</button>
                 </a>
