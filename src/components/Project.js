@@ -193,10 +193,10 @@ export default function Projects() {
             <ul className="tech_list"> */}
               <li className="li_tech_list list_top">
                 {" "}
-                <i class="fa-solid fa-bootstarp"></i> Bootstrap{" "}
+                <i class="fa-solid fa-database"></i> MongoDB{" "}
               </li>
               <li className="li_tech_list last_list_margin_bottom">
-              <i class="fa-brands fa-html"></i> HTML5{" "}
+              <i class="fa-brands fa-node-js"></i> NodeJs{" "}
               </li>
             </ul>
             
