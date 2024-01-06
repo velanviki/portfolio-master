@@ -1,97 +1,116 @@
-.about{
-    background:  #301934;
+.about {
+    background: #301934;
     margin-top: -52px;
-
 }
-h1.about__heading{
+
+h1.about__heading {
     margin-bottom: 35px;
     font-weight: 100;
     text-align: center;
-    font-family:"Nunito";
+    font-family: "Nunito";
     font-size: 60px;
 }
+
 button.about.btn.pointer {
     text-transform: capitalize;
     width: 195px;
     height: 55px;
     font-size: 18px;
-    transition: .4s ease;
+    transition: 0.4s ease;
 }
-.about__button{
+
+.about__button {
     padding: 20px 0px;
 }
-/* h1.about__skills{
-    margin-bottom: 10px;
-    font-weight: 100;
-    text-align: start;
-    font-family:"Nunito",sans-serif;
-    font-size: 60px;
-} */
-.progress{
-    margin-bottom: 20px; 
-    
+
+.progress {
+    margin-bottom: 20px;
 }
 
-h4.title{
-    margin-top:10px ;
+h4.title {
+    margin-top: 10px;
 }
 
-img.titles{
+img.titles {
     margin-top: 5px;
     margin-left: 110px;
     width: 100px;
-    height:60px
-
+    height: 60px;
 }
-img.titless{
+
+img.titless {
     margin-top: 5px;
     margin-left: 145px;
     width: 70px;
-    height:45px  
+    height: 45px;
 }
-img.titlesss{
+
+img.titlesss {
     margin-top: 5px;
     margin-left: 70px;
     width: 90px;
-    height:55px  
+    height: 55px;
 }
 
-img.mern{
+img.mern {
     margin-top: 5px;
     margin-left: 50px;
     width: 250px;
-    height:55px 
+    height: 55px;
 }
 
-.img{
+.img {
     margin-top: -120px;
 }
 
-@media only screen and (max-width: 425px){
-  
-    .img{
+@media only screen and (max-width: 425px) {
+    .img {
         margin-top: -60px;
         margin-left: -90px;
         width: 80px;
     }
 
     button.about.btn.pointer {
-        text-transform: capitalize;
-        width: 195px;
-        height: 55px;
-        font-size: 18px;
-        transition: .4s ease;
-        display: flex;
-        flex-wrap: wrap;
+        width: 100%;
+        height: auto;
+        font-size: 16px;
+    }
+
+    h1.about__heading {
+        font-size: 40px;
+    }
+
+    img.titles,
+    img.titless,
+    img.titlesss,
+    img.mern {
+        margin-left: 0;
+        margin-top: 10px;
     }
 }
 
-@media (min-width: 425px) and (max-width: 993px){
-    .img{
+@media (min-width: 426px) and (max-width: 993px) {
+    .img {
         margin-top: -60px;
         margin-left: -130px;
         width: 80px;
     }
 
-   
+    h1.about__heading {
+        font-size: 50px;
+    }
+
+    button.about.btn.pointer {
+        width: 100%;
+        height: auto;
+        font-size: 16px;
+    }
+
+    img.titles,
+    img.titless,
+    img.titlesss,
+    img.mern {
+        margin-left: 0;
+        margin-top: 10px;
+    }
 }
