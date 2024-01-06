@@ -1,6 +1,7 @@
 .footer{
-    background-image: linear-gradient(to top, #f3f1f5, #d4c1f1, #c3a7f0, #b18deb, #a380dd, #955bf3, #8560c2, #8560c2, #8560c2, #8560c2, #8560c2, #7328ec);
+    /* background-image: linear-gradient(to top, #f3f1f5, #d4c1f1, #c3a7f0, #b18deb, #a380dd, #955bf3, #8560c2, #8560c2, #8560c2, #8560c2, #8560c2, #7328ec); */
     opacity: 0.6;
+    background-image: azure;
 }
 
 .footer_name{

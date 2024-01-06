@@ -46,17 +46,22 @@
 }
 #project .section-heading-title{
     
-    font-family:sans-serif;
+    /* font-family:sans-serif;
     text-align: center;
     color:white !important;
     /* background-image: linear-gradient(to right bottom, #0f0b1e, #17142b, #201938, #2b1f46, #372453) !important; */
-    font-size: 60px;
+    /* font-size: 60px;
     font-weight: 100;
     text-transform: uppercase;
    
     margin-top:80px ;
     padding-bottom: 0;
-    color: white;
+    color: white; */ 
+    margin-bottom: 35px;
+    font-weight: 100;
+    text-align: center;
+    font-family:"Nunito";
+    font-size: 60px;
     
 }
 .li_tech_list{

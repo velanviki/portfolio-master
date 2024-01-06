@@ -8,7 +8,8 @@ import Resume from "./components/My journey";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Project";
-import Skills from "./components/Skills";
+// import Skills from "./components/Skills";
+import Skill from "./components/Skill";
 
 
 function App() {
@@ -20,7 +21,8 @@ function App() {
       <div>  
       <Home />
       <About/>
-      <Skills/>
+      {/* <Skills/> */}
+      <Skill/>
       <Projects/>
       <Resume/> 
       <Contact/>

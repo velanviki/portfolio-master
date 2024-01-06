@@ -30,7 +30,7 @@ function Contact() {
       <div class="container contact" id="contact">
         <div class="row">
           <h2>CONTACT</h2>
-          <div class="col-md-3">
+          {/* <div class="col-md-3">
             <div class="contact-info">
               <img
                 src="https://image.ibb.co/kUASdV/contact-image.png"
@@ -53,7 +53,7 @@ function Contact() {
               <span></span>
               <span></span>
             </div>
-          </div>
+          </div> */}
 
           <div class="col-md-9">
             <form onSubmit={sendEmail}>
@@ -67,7 +67,7 @@ function Contact() {
                       type="text"
                       class="form-control"
                       id="fname"
-                      placeholder="Enter First Name"
+                      placeholder="First Name"
                       name="fname"
                     />
                   </div>
@@ -81,7 +81,7 @@ function Contact() {
                       type="text"
                       class="form-control"
                       id="lname"
-                      placeholder="Enter Last Name"
+                      placeholder="Last Name"
                       name="lname"
                     />
                   </div>
@@ -95,7 +95,7 @@ function Contact() {
                       type="email"
                       class="form-control"
                       id="email"
-                      placeholder="Enter email"
+                      placeholder="Email"
                       name="email"
                     />
                   </div>
