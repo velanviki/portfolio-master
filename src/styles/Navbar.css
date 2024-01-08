@@ -68,7 +68,7 @@
       flex-direction: column;
       background: #FFFFFF;
       left: 0;
-      width: 45%;
+      width: 25%;
       height: 850%;
       transform: translateX(-100%);
       transition: all .45s;
@@ -121,7 +121,7 @@
     }
   
     .nav-toggle > .bar::before {
-      width: 30px;
+      width: 29px;
       transform: translateY(-8px);
       right: 0;
     }

@@ -1,116 +1,117 @@
 .about {
-    background: #301934;
-    margin-top: -52px;
+  background: #301934;
+  margin-top: -52px;
 }
 
 h1.about__heading {
-    margin-bottom: 35px;
-    font-weight: 100;
-    text-align: center;
-    font-family: "Nunito";
-    font-size: 60px;
+  margin-bottom: 35px;
+  font-weight: 100;
+  text-align: center;
+  font-family: "Nunito";
+  font-size: 60px;
 }
 
 button.about.btn.pointer {
-    text-transform: capitalize;
-    width: 195px;
-    height: 55px;
-    font-size: 18px;
-    transition: 0.4s ease;
+  text-transform: capitalize;
+  width: 195px;
+  height: 55px;
+  font-size: 18px;
+  transition: 0.4s ease;
+  margin: 5px;
 }
 
 .about__button {
-    padding: 20px 0px;
+  padding: 20px 0px;
 }
 
 .progress {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 h4.title {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 img.titles {
-    margin-top: 5px;
-    margin-left: 110px;
-    width: 100px;
-    height: 60px;
+  margin-top: 5px;
+  margin-left: 110px;
+  width: 100px;
+  height: 60px;
 }
 
 img.titless {
-    margin-top: 5px;
-    margin-left: 145px;
-    width: 70px;
-    height: 45px;
+  margin-top: 5px;
+  margin-left: 145px;
+  width: 70px;
+  height: 45px;
 }
 
 img.titlesss {
-    margin-top: 5px;
-    margin-left: 70px;
-    width: 90px;
-    height: 55px;
+  margin-top: 5px;
+  margin-left: 70px;
+  width: 90px;
+  height: 55px;
 }
 
 img.mern {
-    margin-top: 5px;
-    margin-left: 50px;
-    width: 250px;
-    height: 55px;
+  margin-top: 5px;
+  margin-left: 50px;
+  width: 250px;
+  height: 55px;
 }
 
 .img {
-    margin-top: -120px;
+  margin-top: -120px;
 }
 
 @media only screen and (max-width: 425px) {
-    .img {
-        margin-top: -60px;
-        margin-left: -90px;
-        width: 80px;
-    }
+  .img {
+    margin-top: -60px;
+    margin-left: -90px;
+    width: 80px;
+  }
 
-    button.about.btn.pointer {
+  /* button.about.btn.pointer {
         width: 100%;
         height: auto;
         font-size: 16px;
-    }
+    } */
 
-    h1.about__heading {
-        font-size: 40px;
-    }
-
-    img.titles,
-    img.titless,
-    img.titlesss,
-    img.mern {
-        margin-left: 0;
-        margin-top: 10px;
-    }
+  img.titles,
+  img.titless,
+  img.titlesss,
+  img.mern {
+    margin-left: 0;
+    margin-top: 10px;
+  }
 }
 
 @media (min-width: 426px) and (max-width: 993px) {
-    .img {
-        margin-top: -60px;
-        margin-left: -130px;
-        width: 80px;
-    }
+  .img {
+    margin-top: -60px;
+    margin-left: -130px;
+    width: 80px;
+  }
 
-    h1.about__heading {
-        font-size: 50px;
-    }
+  h1.about__heading {
+    font-size: 50px;
+  }
 
-    button.about.btn.pointer {
+  /* button.about.btn.pointer {
         width: 100%;
         height: auto;
         font-size: 16px;
-    }
+    } */
 
-    img.titles,
-    img.titless,
-    img.titlesss,
-    img.mern {
-        margin-left: 0;
-        margin-top: 10px;
-    }
+  #hire {
+    margin-left: 50px;
+  }
+
+  img.titles,
+  img.titless,
+  img.titlesss,
+  img.mern {
+    margin-left: 0;
+    margin-top: 10px;
+  }
 }
