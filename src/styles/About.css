@@ -17,7 +17,6 @@ button.about.btn.pointer {
   height: 55px;
   font-size: 18px;
   transition: 0.4s ease;
-  margin: 5px;
 }
 
 .about__button {
@@ -71,11 +70,11 @@ img.mern {
     width: 80px;
   }
 
-  /* button.about.btn.pointer {
+  button.about.btn.pointer {
         width: 100%;
         height: auto;
         font-size: 16px;
-    } */
+    }
 
   img.titles,
   img.titless,
@@ -97,15 +96,11 @@ img.mern {
     font-size: 50px;
   }
 
-  /* button.about.btn.pointer {
+  button.about.btn.pointer {
         width: 100%;
         height: auto;
         font-size: 16px;
-    } */
-
-  #hire {
-    margin-left: 50px;
-  }
+    }
 
   img.titles,
   img.titless,
