@@ -8,11 +8,6 @@ export default function Projects() {
         <h1 class="section-heading-title">PROJECTS </h1>
         <div class="project container " data-aos="fade-right">
 
-        <div class="col-left">
-            <div class="project-img" data-aos="fade-in">
-              <img src="https://img.rasset.ie/000f2acc-500.jpg" alt="img" />
-            </div>
-          </div>
           <div class="col-right">
             <h2> Wishes - MERN </h2>
               <p className="desc">An online web application where you can create and add your wishes that can view to every users.Also you can 
@@ -54,6 +49,11 @@ export default function Projects() {
               </li>
             </ul>
        
+          </div>
+          <div class="col-left">
+            <div class="project-img" data-aos="fade-in">
+              <img src="https://img.rasset.ie/000f2acc-500.jpg" alt="img" />
+            </div>
           </div>
         
 
