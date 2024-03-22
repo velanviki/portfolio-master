@@ -55,7 +55,7 @@ function Contact() {
             </div>
           </div> */}
 
-          <div class="col-md-9">
+          <div class="col-md-6">
             <form onSubmit={sendEmail}>
               <div class="contact-form">
                 <div class="form-group">
